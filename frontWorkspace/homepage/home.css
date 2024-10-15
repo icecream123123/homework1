@@ -34,7 +34,7 @@ a{
 		flex-direction: row;
 		place-content: center;
 		position: relative;
-        background-image: url(/resources/img/bg_text.png);
+        background-image: url(../resources/img/bg_text.png);
 	}
 
         #bg_img{
@@ -297,6 +297,6 @@ a{
     #f_container{
         width: 100%;
         height: 200px;
-        background-image: url(/resources/img/bg_text.png);
+        background-image: url(../resources/img/bg_text.png);
     }
 
